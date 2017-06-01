@@ -1,0 +1,638 @@
+[
+    {
+        "outputFile": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 89,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 215,
+                        "endColumn": 85,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 79,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 301,
+                        "endColumn": 75,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 89,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 377,
+                        "endColumn": 85,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 89,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 463,
+                        "endColumn": 85,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 79,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 549,
+                        "endColumn": 75,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 80,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 625,
+                        "endColumn": 76,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 79,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 702,
+                        "endColumn": 75,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 79,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 778,
+                        "endColumn": 75,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4418,
+                    "endColumn": 57,
+                    "endOffset": 4471
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4476,
+                    "endColumn": 55,
+                    "endOffset": 4527
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4532,
+                    "endColumn": 66,
+                    "endOffset": 4594
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 62,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4599,
+                    "endColumn": 47,
+                    "endOffset": 4642
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4647,
+                    "endColumn": 104,
+                    "endOffset": 4747
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 951,
+                        "endColumn": 100,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4752,
+                    "endColumn": 180,
+                    "endOffset": 4928
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1052,
+                        "endColumn": 180,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4933,
+                    "endColumn": 124,
+                    "endOffset": 5053
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1233,
+                        "endColumn": 120,
+                        "endOffset": 1353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5058,
+                    "endColumn": 106,
+                    "endOffset": 5160
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1354,
+                        "endColumn": 102,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5165,
+                    "endColumn": 179,
+                    "endOffset": 5340
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 1457,
+                        "endColumn": 179,
+                        "endOffset": 1636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5345,
+                    "endColumn": 122,
+                    "endOffset": 5463
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1637,
+                        "endColumn": 118,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5468,
+                    "endColumn": 102,
+                    "endOffset": 5566
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1756,
+                        "endColumn": 98,
+                        "endOffset": 1854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5571,
+                    "endColumn": 166,
+                    "endOffset": 5733
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 438,
+                        "endColumn": 166,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5738,
+                    "endColumn": 187,
+                    "endOffset": 5921
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1855,
+                        "endColumn": 187,
+                        "endOffset": 2042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5926,
+                    "endColumn": 104,
+                    "endOffset": 6026
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 2043,
+                        "endColumn": 100,
+                        "endOffset": 2143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6031,
+                    "endColumn": 180,
+                    "endOffset": 6207
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 2144,
+                        "endColumn": 180,
+                        "endOffset": 2324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6212,
+                    "endColumn": 124,
+                    "endOffset": 6332
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2325,
+                        "endColumn": 120,
+                        "endOffset": 2445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6337,
+                    "endColumn": 174,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2446,
+                        "endColumn": 174,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6512,
+                    "endColumn": 147,
+                    "endOffset": 6655
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2621,
+                        "endColumn": 143,
+                        "endOffset": 2764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6660,
+                    "endColumn": 62,
+                    "endOffset": 6718
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 2765,
+                        "endColumn": 58,
+                        "endOffset": 2823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6723,
+                    "endColumn": 61,
+                    "endOffset": 6780
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 2824,
+                        "endColumn": 57,
+                        "endOffset": 2881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6785,
+                    "endColumn": 78,
+                    "endOffset": 6859
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 2882,
+                        "endColumn": 74,
+                        "endOffset": 2956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6864,
+                    "endColumn": 52,
+                    "endOffset": 6912
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6917,
+                    "endColumn": 50,
+                    "endOffset": 6963
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 50,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6968,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 7254
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7259,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 7414
+                },
+                "from": {
+                    "file": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

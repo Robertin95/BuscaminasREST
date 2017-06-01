@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_1dc2fc54573749023b88f2dfe6c7676fb7293ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="816f41f95546b0e9dabf9884376e1323ca2da234">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e75772263f7b441ee5b095de956db53bc61ac240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_51b158a4eec82e0b0e7e90cf2b5ada0e2567f2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04a51ff6788a58f8d262e6ceacce168230c331f8">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/instant-run_92da353675b64a9daf61a7307fb6c333637f683c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_3a2b0293fe745a36ee936e42f273142d1fae2eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_d0d568d6a7b7f0102da4c104b7e5c4132604faa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_0fb510d48c12ebe454fde0692069afeaa1f43a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_25dfc1de7bb46ae9d34b51191f40166c4a4c3c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_b00a9a19e08fbfd19344e7262a9c44155e0a1042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_355f29af91ea0003934683a701b13efe50ea1ef4.jar" />
+    </item>
+
+</items>

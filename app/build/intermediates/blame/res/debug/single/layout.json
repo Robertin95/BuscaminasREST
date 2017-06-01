@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/res/merged/debug/layout/dialog_ganador.xml",
+        "source": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/layout/dialog_ganador.xml"
+    },
+    {
+        "merged": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/build/intermediates/res/merged/debug/layout/activity_resultado.xml",
+        "source": "/home/codeline/AndroidStudioProjects/BuscaMinas1/app/src/main/res/layout/activity_resultado.xml"
+    }
+]
